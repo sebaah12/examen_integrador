@@ -1,2 +1,3 @@
 # examen_integrador
-probando
+Sebastian Martinez
+Grupo 1
